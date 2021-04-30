@@ -4,7 +4,7 @@ version: 0.2
 env:
    variables:
      PROJECT: aspnetcore
-     DOTNET_CORE_RUNTIME: 2.2
+     DOTNET_CORE_RUNTIME: 2.1
 
 phases:   
   install:
