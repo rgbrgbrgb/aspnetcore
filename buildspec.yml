@@ -13,7 +13,7 @@ phases:
       
   pre_build:
     commands:
-      - echo Restore started on `date`
+      - echo Restore started on `date1`
       - dotnet restore
       
   build:
