@@ -3,7 +3,7 @@ version: 0.2
     
 env:
    variables:
-     PROJECT: dotnet-core-tutorial
+     PROJECT: aspnetcore
      DOTNET_CORE_RUNTIME: 2.2
 
 phases:   
