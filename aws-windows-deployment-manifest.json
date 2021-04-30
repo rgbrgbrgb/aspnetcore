@@ -3,9 +3,9 @@
     "deployments": {
         "aspNetCoreWeb": [
         {
-            "name": "test-dotnet-core",
+            "name": "aspnetcore",
             "parameters": {
-                "appBundle": "site.zip",
+                "appBundle": ".",
                 "iisPath": "/",
                 "iisWebSite": "Default Web Site"
             }
