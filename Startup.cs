@@ -32,7 +32,7 @@ namespace dotnet_core_tutorial
             {
                 endpoints.MapGet("/", async context =>
                 {
-                    await context.Response.WriteAsync("Hello World!");
+                    await context.Response.WriteAsync("STG Logistics ASP .Net core deployment automation from Github to AWS Elastic Beanstalk!");
                 });
             });
         }
